@@ -3,6 +3,7 @@
 AP25110010247
 B.Tech CSE, SRM University AP
 **LinkedIn:** https://www.linkedin.com/in/bindu-yenninti-b0062837b/
+**Coding Club Role:** Coding Club Member
 
 ## About Me
 I am interested in learning new technologies and developing my technical and personal skills. I'm always looking forward to learning more, improving myself, and becoming more competitive in the field of technology.
@@ -22,8 +23,6 @@ I am interested in learning more about:
 - Web development
 - Remote sensing & space technology
 - Programming and technology
-
-# **Coding Club Role:** Coding Club Member
 
 ## Session Notes
 See [NOTES.md](./NOTES.md) for weekly session notes.
