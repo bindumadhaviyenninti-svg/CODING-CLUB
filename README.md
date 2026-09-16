@@ -28,10 +28,10 @@ I am interested in learning more about:
 - Programming and technology
 
 ## Session Notes
-See Notes for weekly session notes.
+See [Notes.md](./Notes.md) for weekly session notes.
 
 ## Weekly Tasks
-See [TASKS.md](./TASKS.md) for weekly progress tracking.
+See [Weekly Tasks.md](./Weekly Tasks.md) for weekly progress tracking.
 
 ## Coding Practice
 See [/coding-practice](./coding-practice) for solved problems.
