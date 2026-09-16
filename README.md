@@ -23,7 +23,7 @@ I am interested in learning more about:
 - Remote sensing & space technology
 - Programming and technology
 
-**Coding Club Role:** Coding Club Member
+#**Coding Club Role:** Coding Club Member
 
 ## Session Notes
 See [NOTES.md](./NOTES.md) for weekly session notes.
