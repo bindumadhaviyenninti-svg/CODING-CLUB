@@ -6,6 +6,9 @@ B.Tech CSE, SRM University AP
 
 **Coding Club Role:** Coding Club Member
 
+## Session Notes
+See [NOTES.md](./NOTES.md) for weekly session notes.
+
 ## Weekly Tasks
 See [TASKS.md](./TASKS.md) for weekly progress tracking.
 
