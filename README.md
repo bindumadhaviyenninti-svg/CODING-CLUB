@@ -1,8 +1,11 @@
 # CODING-CLUB
 # Y. Bindu Madhavi
 AP25110010247
+
 B.Tech CSE, SRM University AP
+
 **LinkedIn:** https://www.linkedin.com/in/bindu-yenninti-b0062837b/
+
 **Coding Club Role:** Coding Club Member
 
 ## About Me
