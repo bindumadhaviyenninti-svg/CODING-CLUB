@@ -28,7 +28,7 @@ I am interested in learning more about:
 - Programming and technology
 
 ## Session Notes
-See [NOTES.md](./NOTES.md) for weekly session notes.
+See [NOTES.md](./Notes.md) for weekly session notes.
 
 ## Weekly Tasks
 See [TASKS.md](./TASKS.md) for weekly progress tracking.
