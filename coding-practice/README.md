@@ -2,4 +2,8 @@
 
 This folder contains problems I've solved for coding practice.
 
-Profile: [add your LeetCode/GFG link here if you have one]
+## Profiles
+- LeetCode: https://leetcode.com/u/bindumadhaviyenninti-svg/
+- CodeChef: https://www.codechef.com/users/vivid_glue_51
+- HackerRank: https://www.hackerrank.com/profile/yennintibindu
+- hackereart: https://www.hackerearth.com/@yennintibindu/
